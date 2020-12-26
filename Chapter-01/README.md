@@ -6,10 +6,10 @@
 2. Variable: spam</br>
    String  : 'spam'</br>
 
-3. Some of the datatypes:
-   -int
-   -float
-   -str
+3. Some of the datatypes:</br>
+   -int</br>
+   -float</br>
+   -str</br>
 
 4. An expression is made up of combinations of  operators and values.And all the expressions are converted into one single value.
 

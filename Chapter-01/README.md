@@ -1,10 +1,10 @@
 # Chapter 1 Solutions
 
-1. Operators : *,-,/,+
-   Values    : 'hello',-88.8,5
+1. Operators : *,-,/,+</br>
+   Values    : 'hello',-88.8,5</br>
 
-2. Variable: spam
-   String  : 'spam'
+2. Variable: spam</br>
+   String  : 'spam'</br>
 
 3. Some of the datatypes:
    -int
